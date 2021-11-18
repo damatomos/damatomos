@@ -7,7 +7,7 @@
 - ⛱️ Indie Game Dev
 
 <div align="center">
-  <img width="400" src="hopi.gif"/>
+  <img width="200" src="hopi.gif"/>
 </div>
 
 <div align="left">
