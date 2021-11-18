@@ -1,9 +1,14 @@
 # Olá, sou Mikhael D'Amato
 
-
 <img height="28" src="badge_bluejaygm_master.svg"/>
 
-<img width="400" src="hopi.gif"/>
+- ❤️ Entusiasta por Desenvolvimento.
+- 📚 Cursa Bacharelado em Sistemas de Informação
+- ⛱️ Indie Game Dev
+
+<div align="center">
+  <img width="400" src="hopi.gif"/>
+</div>
 
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bluejaygm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -55,3 +60,4 @@
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
+
