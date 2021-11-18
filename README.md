@@ -1,5 +1,10 @@
 # Olá, sou Mikhael D'Amato
 
+
+<img height="28" src="badge_bluejaygm_master.svg"/>
+
+<img width="400" src="hopi.gif"/>
+
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bluejaygm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluejaygm&layout=compact&langs_count=7&theme=tokyonight"/>
