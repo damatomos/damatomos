@@ -62,5 +62,5 @@
 </div>
 
 
-![](https://github.com/bluejaygm/snk/raw/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/bluejaygm/bluejaygm/blob/output/github-contribution-grid-snake.gif)
 
