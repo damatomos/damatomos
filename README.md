@@ -63,5 +63,5 @@
 
 ##
 
-![snake gif](https://github.com/bluejaygm/bluejaygm/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/BlueJayGM/bluejaygm/blob/output/github-contribution-grid-snake.svg)
 
