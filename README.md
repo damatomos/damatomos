@@ -61,6 +61,7 @@
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
 
+##
 
 ![snake gif](https://github.com/bluejaygm/bluejaygm/blob/output/github-contribution-grid-snake.gif)
 
