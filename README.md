@@ -1,10 +1,8 @@
 # Olá, sou Mikhael D'Amato
 
-<img height="28" src="badge_bluejaygm_master.svg"/>
-
 - ❤️ Entusiasta por Desenvolvimento.
 - 📚 Cursa Bacharelado em Sistemas de Informação
-- ⛱️ Indie Game Dev
+- ⛱️ Web Developer and System Developer
 
 <div align="center">
   <img width="200" src="hopi.gif"/>
