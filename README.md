@@ -5,10 +5,6 @@
 - ⛱️ Web Developer and System Developer
 
 <div align="center">
-  <img width="200" src="hopi.gif"/>
-</div>
-
-<div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=damatomos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damatomos&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
@@ -57,6 +53,11 @@
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+</div>
+
+## Contact
+<div>
+<a href = "mailto:damato578@gmail.com"><img src="https://img.shields.io/badge/-Gmail-1616ff?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 ##
