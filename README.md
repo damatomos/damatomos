@@ -2,12 +2,7 @@
 
 - ❤️ Entusiasta por Desenvolvimento.
 - 📚 Cursa Bacharelado em Sistemas de Informação
-- ⛱️ Web Developer and System Developer
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=damatomos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damatomos&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+- ⛱️ Web Developer and Game Developer
 
 ## Linguagens
 
@@ -61,18 +56,10 @@
   <img align="center" title="Bulma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />        
 </div>
 <br />
-<br />
-<div style="display: inline_block" align="center">
-  <h3>Icons by</h3>
-  <img align="center" title="DevIcon" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" />
-</div>
 
 ## Contact
 <div>
-<a href = "mailto:damato578@gmail.com"><img src="https://img.shields.io/badge/-Gmail-1616ff?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:damato578@gmail.com"><img src="https://img.shields.io/badge/-Gmail-1616ff?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://br.linkedin.com/in/mikhael-d-amato-127750191?trk=people_directory"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-##
-
-![snake gif](https://github.com/damatomos/damatomos/blob/output/github-contribution-grid-snake.svg)
 
