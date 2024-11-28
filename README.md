@@ -1,5 +1,5 @@
 <div>
-<img src="https://github.com/damatomos/damatomos/blob/main/background.png" alt="damatomos" align="center" width="100%"/>
+<img src="https://github.com/damatomos/damatomos/blob/main/background_cut.png" alt="damatomos" align="center" width="100%"/>
 <br/>
 <br/>
   
