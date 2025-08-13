@@ -13,11 +13,11 @@
 
 - 🌱 I’m currently learning **Spring Framework**
 
-- 👨‍💻 All of my projects are available at [https://www.damatomos.com.br](https://www.damatomos.com.br)
+- 👨‍💻 All of my best projects are available at [https://www.damatomos.com.br](https://www.damatomos.com.br)
 
-- 📝 I regularly write articles on [dev.to/damatomos](dev.to/damatomos)
+- 📝 I am trying write articles on [dev.to/damatomos](dev.to/damatomos)
 
-- 💬 Ask me about **Angular**
+- 💬 Ask me about **Spring Boot**. Yes, ask me. I need learning more.
 
 - 📫 How to reach me **damato.contato@gmail.com**
 
